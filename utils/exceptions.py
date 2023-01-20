@@ -1,0 +1,3 @@
+
+class ResultsNotFoundException(Exception):
+    ...
